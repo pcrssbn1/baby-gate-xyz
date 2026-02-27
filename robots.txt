@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baby-gate.xyz/sitemap.xml
